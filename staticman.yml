@@ -1,4 +1,4 @@
-icomments:
+comments:
   allowedFields     : ['name', 'email', 'url', 'message']
   branch            : "master"
   commitMessage     : "New comment."
